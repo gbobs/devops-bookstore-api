@@ -4,6 +4,7 @@ A Python [Flask REST API](https://blog.miguelgrinberg.com/post/designing-a-restf
 
 Currently being built via CircleCI
 
+
 ## Instructions
 
 ### Running Locally
@@ -63,4 +64,3 @@ docker run --rm -it -p 5000:5000 bookstore-api:1.0
 ```
 
 Then you should be able to open up your browser and head to [http://localhost:5000/books](http://localhost:5000/books) to see the JSON response
-
